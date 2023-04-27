@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1073039349744",
+    "project_id": "prototype-e4c3b",
+    "storage_bucket": "prototype-e4c3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073039349744:android:d1f87f88c679fab8fe6f35",
+        "android_client_info": {
+          "package_name": "com.vdemo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073039349744-42ide54eqm1gtbaf0qk5rg7hpus0i437.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjU5ZGFg_wiR27aBCv70unHKSAq2m83bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073039349744-42ide54eqm1gtbaf0qk5rg7hpus0i437.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1073039349744-bsktgmno57vfchp659cd2pcr5k7thb2e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vdemo.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

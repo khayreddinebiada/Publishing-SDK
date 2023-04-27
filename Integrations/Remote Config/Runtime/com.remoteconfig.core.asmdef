@@ -1,0 +1,16 @@
+{
+    "name": "com.remoteconfig.core",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9cf4df86725773f4fbe1a24aa6723d4a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
