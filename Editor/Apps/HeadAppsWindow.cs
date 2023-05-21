@@ -6,7 +6,7 @@ namespace Apps.editor
 {
     public static class HeadAppsWindow
     {
-        [MenuItem("DSOneGames/Ping AppsSettings", false, 101)]
+        [MenuItem("SDK/Ping AppsSettings", false, 101)]
         public static void AppSettingsPing()
         {
             AppsUtility.PingAsset(AppsUtility.GetAsset<AppsSettings>(AppsSettings.GlobalDirectoryPath, "AppsSettings.asset"));
